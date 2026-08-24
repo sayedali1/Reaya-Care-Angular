@@ -1,30 +1,41 @@
-# Reaya-Care-Angular
+# Reaya Care
 
-Reaya-Care-Angular is a modern healthcare front-end web application built with Angular and Tailwind CSS, designed to deliver a clean, responsive, and user-friendly experience across all devices. The app is part of a full-stack solution aimed at managing healthcare services such as appointments, patient profiles, and doctor interactions.
+A modern healthcare front-end web application built with Angular and Tailwind CSS, delivering a clean, responsive experience for managing appointments, patient profiles, and doctor interactions.
 
-# Designed, Programmed, and Developed by Software Engineers
+🔗 **Live demo:** [care-ecru.vercel.app](https://care-ecru.vercel.app)
 
-# Sayed Ali Sayed
+## Features
 
-# Ali Gamal Dakhly
+- Fully responsive UI using Angular standalone components
+- Clean, modular architecture with reusable components
+- Tailwind CSS for consistent, modern styling
+- Routing with lazy loading for performance
+- Form validation for secure user input
+- Integration-ready structure for RESTful APIs
 
-# Khaled Maher Mohamed
+## Tech Stack
 
-# Mahmoud Abd Elghany Mostsfa
+Angular · Tailwind CSS · TypeScript
 
-# Abdallah Hassan Mokarb
+## Getting Started
 
-Fully responsive UI using Angular standalone components
+```bash
+npm install
+ng serve
+```
 
-Clean, modular design with reusable components
+Navigate to `http://localhost:4200/`.
 
-Tailwind CSS for modern styling and consistency
+## Team
 
-Routing and lazy loading for performance optimization
+Built by a 5-person team as a full-stack healthcare platform front end:
 
-Forms with validation for secure user input
+- Sayed Ali Sayed
+- Ali Gamal Dakhly
+- Khaled Maher Mohamed
+- Mahmoud Abd Elghany Mostafa
+- Abdallah Hassan Mokarb
 
-Integration-ready structure for RESTful APIs
+## License
 
-License
-Licensed under the MIT License.
+MIT
